@@ -115,3 +115,5 @@ The code would be called like so:
 const result = solution("apples, pears # and bananas\ngrapes\nbananas !apples", ["#", "!"])
 // apples, pears\ngrapes\nbananas
 ```
+
+![https://media.giphy.com/media/gmEeXtFmsfVEA/giphy.gif](https://media.giphy.com/media/gmEeXtFmsfVEA/giphy.gif)
