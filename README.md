@@ -1,3 +1,5 @@
+# Dojos
+
 ## Compare powers (Niveau 6)
 
 You certainly can tell which is the larger number between 210 and 215.
@@ -15,6 +17,8 @@ Well, by now you have surely guessed that you have to build a function to compar
     comparePowers([3,9],[5,6])===-1
     comparePowers([7,7],[5,8])===-1
 ```
+
+-- Bonus: Arguments can be more that 2... 3?4?
 
 ## Dojo Sum of Digits recursive (Niveau 6)
 
